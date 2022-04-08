@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Kadir. 
+I develop Full-Stack Web, Mobile Apps!
+3rd Grade Computer Science. 
+
 
 <!--
 **kadiryaren/kadiryaren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
