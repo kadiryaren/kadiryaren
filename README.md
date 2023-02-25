@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Full Stack Web and Mobile Development.<br>📕 I'm currently learning Javascript frameworks such as ReactJS and NEXTJS <br>💬 Ask me whatever you want :) <br>
+🔭 I'm currently working on Full Stack Web and Mobile Development.<br>📕 I'm currently learning Javascript framework NEXTJS <br>💬 Ask me whatever you want :) <br>
 
 
 ## 🌐 Socials:
